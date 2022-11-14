@@ -9,3 +9,4 @@ Apliakcja zostanie napisana w Pythonie (wstępnie Kivy) na Androida. Beta wersj�
 
 Projekt Low-Cost-Production powstał w celu ułatwienia komunikacji między znajomymi umawiającymi się na konkretne wydarzenia w określonych miejscach.
 
+Projekt zostanie zrealizowany w języku Python, prawdopodobnie z użyciem frameworku Kivy. Aplikacja dostępna będzie na telefony
