@@ -1,4 +1,3 @@
-print("...:::Trudny Kalkulator:::...")
 
 x = int(input("Wprwowadź pierwszą liczbę:"))
 y = int(input("Wprowadź drugą liczbę:"))
