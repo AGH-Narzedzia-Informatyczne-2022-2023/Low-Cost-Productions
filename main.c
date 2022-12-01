@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-
+nie jest ddobrze
 double macierz1[3][3]={1,2,3,4,5,6,7,8,9};
 double macierz2[3][3]={10,11,12,13,14,15,16,17,18};
 double macierz3[3][3];
@@ -53,7 +53,11 @@ while(j<3)
 j++;
 
 };
-
+ //nie każdy chce tego 
+ 
+ if (x.y)
+     printf("konflikt")
+#rozwiązanie kofnliktu
 
 };
 
