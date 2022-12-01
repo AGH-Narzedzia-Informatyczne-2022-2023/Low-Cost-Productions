@@ -3,7 +3,7 @@
 
 
 double macierz1[3][3]={1,2,3,4,5,6,7,8,9};
-double macierz2[3][3]={10,11,12,13,14,15,16,17,18};
+double macierz2[3][3]={13,21,31,41,56,64,72,81,91};
 double macierz3[3][3];
 
 void dodawaniemacierzy();
