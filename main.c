@@ -1,15 +1,14 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-
-double macierz1[3][3]={1,2,3,4,5,6,7,8,9};
-double macierz2[3][3]={10,11,12,13,14,15,16,17,18};
+fakg[sakhd,pd.l;bv
+double macierz1[3][3]={1,2,3,4,5,6,7,8,9};fgalkgms
+double macierz2[3][3]={10,11,12,13,14,15,16,17,18};gsa,lapoigqeaomokqfd
 double macierz3[3][3];
 
-void dodawaniemacierzy();
-void wyswietlmacierz();
-void mnozeniemacierzy();
-
+fmaklfmgiopogffa
+print(oten konflikt ma wreszciwe wyjść)
+    XDDDD
 
 int main()
 {
