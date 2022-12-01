@@ -1,7 +1,7 @@
 print("...:::Prosty Kalkulator:::...")
 
-x = int(input("Insert the first number:"))
-y = int(input("Insert the second number:"))
+x = int(input("Wprwowadź pierwszą liczbę:"))
+y = int(input("Wprowadź drugą liczbę:"))
 z = input("What type of operator you want to use(+,-,*,/,**)")
 
 operators = {"+": x+y, "-": x-y, "*": x*y, "/": x/y, "**": x**y}
