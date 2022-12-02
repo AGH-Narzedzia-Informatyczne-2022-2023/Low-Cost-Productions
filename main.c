@@ -56,7 +56,9 @@ j++;
 
 
 };
-
+void nic()
+{
+}
 
 
 void mnozeniemacierzy()
